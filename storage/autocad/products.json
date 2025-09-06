@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "2D Car Model",
+    "description": "Creating detailed 3D models for various applications.",
+    "image": "autocad car.jpg"
+  },
+  {
+    "id": 2,
+    "name": "3D Bridge Model",
+    "description": "Producing precise 2D drawings and blueprints.",
+    "image": "bridge 3d.jpg"
+  },
+  {
+    "id": 3,
+    "name": "3D Fan Model",
+    "description": "Designing intricate fan models for ventilation systems.",
+    "image": "fan 3d.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Nuts and Bolts",
+    "description": "Modeling nuts and bolts for mechanical assemblies.",
+    "image": "nuts and bolt.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Planetary Gear",
+    "description": "Creating planetary gear systems for machinery.",
+    "image": "planetary gear.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Window Design",
+    "description": "Designing modern and efficient window systems.",
+    "image": "window.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Connecting Rod",
+    "description": "Designing connecting rods for engines and machinery.",
+    "image": "connecting rod.jpg"
+  }
+]
