@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Donald Tech Services Expres</title>
+  </head>
+  <style>
+    #getAdmins {
+      cursor: pointer;
+    }
+  </style>
+  <body>
+    <h1>Donald Tech Services</h1>
+    <p>Welcome to Donald Tech Services Expres!</p>
+    <p>Your one-stop solution for all your tech needs.</p>
+    <h3>Quick Links</h3>
+    <ul>
+      <li>
+        <a
+          href="https://github.com/jeremiah-ndiritu/donald-tech-vite"
+          target="_blank"
+          rel="noopener"
+        >
+          The vite github account</a
+        >
+      </li>
+    </ul>
+    <div class="admins" id="admins">
+      <h4 onclick="getAdmins()" id="getAdmins">See Admins</h4>
+    </div>
+    <script>
+      let adminsDiv = document.getElementById("admins");
+
+      async function getAdmins() {
+        let response = await fetch("/api/admins");
+        let data = await response.json();
+        let admins = data.admins;
+        adminsDiv.innerHTML = `<h3>Admins</h3><ul>${admins
+          .map((admin) => `<li>${admin.name} - ${admin.role}</li>`)
+          .join("")}</ul>`;
+      }
+    </script>
+  </body>
+</html>
