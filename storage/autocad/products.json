@@ -3,42 +3,42 @@
     "id": 1,
     "name": "2D Car Model",
     "description": "Creating detailed 3D models for various applications.",
-    "image": "autocad car.jpg"
+    "image": "https://res.cloudinary.com/dkiykwitt/image/upload/v1760532207/autocad_car_hygmsm.jpg"
   },
   {
     "id": 2,
     "name": "3D Bridge Model",
     "description": "Producing precise 2D drawings and blueprints.",
-    "image": "bridge 3d.jpg"
+    "image": "https://res.cloudinary.com/dkiykwitt/image/upload/v1760532175/bridge_3d_tv071o.jpg"
   },
   {
     "id": 3,
     "name": "3D Fan Model",
     "description": "Designing intricate fan models for ventilation systems.",
-    "image": "fan 3d.jpg"
+    "image": "https://res.cloudinary.com/dkiykwitt/image/upload/v1760532197/fan_3d_k4vurh.jpg"
   },
   {
     "id": 4,
     "name": "Nuts and Bolts",
     "description": "Modeling nuts and bolts for mechanical assemblies.",
-    "image": "nuts and bolt.jpg"
+    "image": "https://res.cloudinary.com/dkiykwitt/image/upload/v1760532220/nuts_and_bolt_nsqdxh.jpg"
   },
   {
     "id": 5,
     "name": "Planetary Gear",
     "description": "Creating planetary gear systems for machinery.",
-    "image": "planetary gear.jpg"
+    "image": "https://res.cloudinary.com/dkiykwitt/image/upload/v1760532210/planetary_gear_afciqs.jpg"
   },
   {
     "id": 6,
     "name": "Window Design",
     "description": "Designing modern and efficient window systems.",
-    "image": "window.jpg"
+    "image": "https://res.cloudinary.com/dkiykwitt/image/upload/v1760532201/window_rzycaq.jpg"
   },
   {
     "id": 7,
     "name": "Connecting Rod",
     "description": "Designing connecting rods for engines and machinery.",
-    "image": "connecting rod.jpg"
+    "image": "https://res.cloudinary.com/dkiykwitt/image/upload/v1760532196/connecting_rod_jcjimm.jpg"
   }
 ]

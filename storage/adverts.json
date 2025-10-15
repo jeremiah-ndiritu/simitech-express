@@ -3,18 +3,18 @@
     "id": 1,
     "h3": "AutoCAD 2D",
     "p": "Master the art of precision with our AutoCAD 2D services. From technical drawings to architectural plans, we deliver high-quality 2D designs tailored to your needs.",
-    "img": "autocad car.jpg"
+    "img": "https://res.cloudinary.com/dkiykwitt/image/upload/v1760532207/autocad_car_hygmsm.jpg"
   },
   {
     "id": 2,
     "h3": "AutoCAD 3D",
     "p": "Transform your ideas into reality with our AutoCAD 3D services. Whether it's architectural designs or mechanical parts, we create detailed and accurate 3D models that meet your specifications.",
-    "img": "bridge 3d.jpg"
+    "img": "https://res.cloudinary.com/dkiykwitt/image/upload/v1760532175/bridge_3d_tv071o.jpg"
   },
   {
     "id": 3,
     "h3": "Web Development",
     "p": "Build your online presence with our expert web development services. From sleek designs to robust functionality, we create websites that captivate and convert.",
-    "img": "simitech-website-screenshot.png"
+    "img": "https://res.cloudinary.com/dkiykwitt/image/upload/v1760532862/WhatsApp_Image_2025-10-15_at_15.53.04_31efe985_wu7uec.jpg"
   }
 ]
